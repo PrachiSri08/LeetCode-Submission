@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/0219-contains-duplicate-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Simulation
 |  |
@@ -50,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/1927-sum-game) |
+## Hash Table
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/0219-contains-duplicate-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
