@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/0219-contains-duplicate-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Simulation
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/0219-contains-duplicate-ii) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
 | ------- |
