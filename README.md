@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/0219-contains-duplicate-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3904-smallest-stable-index-ii](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/3904-smallest-stable-index-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -74,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Prefix Sum
+|  |
+| ------- |
+| [3904-smallest-stable-index-ii](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
