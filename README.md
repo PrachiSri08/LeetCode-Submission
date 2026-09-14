@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/0836-rectangle-overlap) |
 | [1927-sum-game](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/1927-sum-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/3870-count-commas-in-range) |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/0940-distinct-subsequences-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
