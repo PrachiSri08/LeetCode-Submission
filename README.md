@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/0160-intersection-of-two-linked-lists) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -52,12 +53,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/0940-distinct-subsequences-ii) |
 | [1927-sum-game](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/1927-sum-game) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
 | [1927-sum-game](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/1927-sum-game) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
 |  |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/0940-distinct-subsequences-ii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Geometry
 |  |
 | ------- |
