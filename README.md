@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3904-smallest-stable-index-ii](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/3904-smallest-stable-index-ii) |
 ## Simulation
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1927-sum-game](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/1927-sum-game) |
 | [3525-find-x-value-of-array-ii](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/3525-find-x-value-of-array-ii) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/3871-count-commas-in-range-ii) |
