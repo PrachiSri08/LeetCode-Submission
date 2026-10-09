@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -38,10 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/0148-sort-list) |
+| [0347-top-k-frequent-elements](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
 | [1096-brace-expansion-ii](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Merge Sort
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/0219-contains-duplicate-ii) |
+| [0347-top-k-frequent-elements](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
 | [1096-brace-expansion-ii](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -119,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
@@ -200,4 +205,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/PrachiSri08/LeetCode-Submission/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
